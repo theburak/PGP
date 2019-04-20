@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGP_Uygulama", "PGP_Uygulama\PGP_Uygulama.csproj", "{0D864D22-3105-42C2-89BD-CA2CEA1BFD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D864D22-3105-42C2-89BD-CA2CEA1BFD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D864D22-3105-42C2-89BD-CA2CEA1BFD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D864D22-3105-42C2-89BD-CA2CEA1BFD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D864D22-3105-42C2-89BD-CA2CEA1BFD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81068A4A-B23E-4B4D-95C6-C41E71D67567}
+	EndGlobalSection
+EndGlobal
